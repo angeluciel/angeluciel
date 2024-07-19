@@ -13,7 +13,8 @@ I've been learning how to make one, so please hang in there for a while!
 ## ✍️Learning Progress
 I've been learning a few things I find interesting, here are some of them:
 - [X] React
-- [X] Sass
+- [X] Vue
+- [X] Scss
 - [X] Node.js
 - [X] php
 - [X] Lua
