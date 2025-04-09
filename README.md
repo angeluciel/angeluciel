@@ -34,13 +34,14 @@ const angeLuciel = {
     },
     backEnd: {
       js: ["Node", "Express"],
+      ts: ["Learning..."],
     },
     mobileApp: {
       crossPlatform: ["Flutter"]
     },
     databases: ["PostgreSQL", "MongoDB", "Firebase", "Redis"],
   },
-  currentFocus: "Finishing Weezy!",
+  currentFocus: "Learning GSAP :-)",
   funFact: "I enjoy all types of art, including writing, painting and singing!"
 };
 ```
