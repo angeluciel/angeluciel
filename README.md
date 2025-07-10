@@ -1,6 +1,6 @@
 <h2 align="center">Greetings, stranger. 👋</h2>
 <br>
-<p align="center">Brazillian 5th semester Software Engineering student.</p>
+<p align="center">Brazillian 6th semester Software Engineering student.</p>
 <h3 align="center">João</h3>
 <!--<br>-->
 <p align="center">
@@ -34,7 +34,7 @@ function Luciel() {
       languages: ["Vue.js", "React", "TS"],
       styles: ["Tailwind", "Sass", "Less"],
       uiLibraries: ["PrimeVue", "Material Design"],
-      testing: ["Cypress", "Jest"],
+      testing: ["Cypress", "Jest", "Vitest"],
     },
     backEnd: {
       frameworks: ["Node.js", "Express"],
@@ -44,7 +44,7 @@ function Luciel() {
     tools: ["Docker", "Supabase"],
   };
 
-  const aprendendo = ["GSAP", "Advanced Testing"];
+  const aprendendo = ["GSAP"];
 
   const funFact = "I enjoy all types of art! I currently do writing, painting, and singing!";
 }
