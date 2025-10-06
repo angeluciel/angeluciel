@@ -12,7 +12,7 @@
   </p>
   <br>
   <p align="center">
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-m-izidoro-986123309/"><img src="https://img.shields.io/badge/-João%20Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-medeiros-izidoro-986123309/"><img src="https://img.shields.io/badge/-João%20Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
     <a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef"><img src="https://wakatime.com/badge/user/bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef.svg" alt="Total time coded since Feb 21 2025" /></a>
 <br>
 </p>
@@ -24,7 +24,7 @@
 import { Desenvolvedor } from 'Luciel';
 
 function Luciel() {
-  const pronouns: ["He", "Him"] = ["He", "Him"];
+  const pronouns: ["He", "Him"];
   const local = "Brazil, SC";
 
   const code = ["TypeScript", "Lua", "Dart"];
@@ -40,11 +40,11 @@ function Luciel() {
       frameworks: ["Node.js", "Express"],
       databases: ["PostgreSQL", "MongoDB", "Supabase", "Firebase", "Redis"],
     },
-    mobile: ["Flutter", "React Native"],
+    mobile: ["Flutter", "React Native", "Swift],
     tools: ["Docker", "Supabase"],
   };
 
-  const aprendendo = ["GSAP"];
+  const aprendendo = ["GSAP", "Motion"];
 
   const funFact = "I enjoy all types of art! I currently do writing, painting, and singing!";
 }
