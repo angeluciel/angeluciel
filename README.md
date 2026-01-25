@@ -1,6 +1,6 @@
 <h2 align="center">Greetings, stranger. 👋</h2>
 <br>
-<p align="center">Brazillian 6th semester Software Engineering student.</p>
+<p align="center">Brazillian 7th semester Software Engineering student.</p>
 <h3 align="center">João</h3>
 <!--<br>-->
 <p align="center">
