@@ -24,7 +24,6 @@
 import { Desenvolvedor } from 'Luciel';
 
 function Luciel() {
-  const pronouns: ["He", "Him"];
   const local = "Brazil, SC";
 
   const code = ["TypeScript", "Lua", "Dart"];
@@ -37,7 +36,7 @@ function Luciel() {
       testing: ["Cypress", "Jest", "Vitest"],
     },
     backEnd: {
-      frameworks: ["Node.js", "Express"],
+      frameworks: ["Node.js", "Express", "Nestjs"],
       databases: ["PostgreSQL", "MongoDB", "Supabase", "Firebase", "Redis"],
     },
     mobile: ["Flutter", "React Native", "Swift],
