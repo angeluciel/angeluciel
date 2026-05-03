@@ -1,16 +1,14 @@
-<h2 align="center">Greetings, stranger. 👋</h2>
+<h1 align="center">João Izidoro</h1>
+
+<p align="center">
+  <strong><code>Software Engineering</code> <code>Designer</code></strong>
+  <br>
+</p>
+
 <br>
 <p align="center">Brazillian 7th semester Software Engineering student.</p>
-<h3 align="center">João</h3>
 <!--<br>-->
 <p align="center">
-  <!-- <a href="#">Portfolio</a> -->
-  <!-- <br> -->
-  <p align="center">
-    <a href="https://www.figma.com/proto/bonIyFzms9N3icNU8r4jQo/Weezy?node-id=0-1&node-type=canvas&t=oCk7YjxeEOWgHbmQ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=58%3A231&show-proto-sidebar=1">Design Student</a> |
-    <a href="https://github.com/angeluciel/Portfolio-Brului">Frontend Developer</a>
-  </p>
-  <br>
   <p align="center">
    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-medeiros-izidoro-986123309/"><img src="https://img.shields.io/badge/-João%20Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
     <a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef"><img src="https://wakatime.com/badge/user/bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef.svg" alt="Total time coded since Feb 21 2025" /></a>
