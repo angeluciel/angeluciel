@@ -1,6 +1,8 @@
 <img src="/imgs/header.svg" alt="hero"/>
 
+<br>
 <h3><strong><code> Software Engineering </code> - <code> Designer </code></strong></h3>
+<strong><a href="/joaoizidoro.com">Veja meus projetos / Browse my Projects</a></strong>
 <h4>Brazillian 7th semester <i>Software Engineering</i> student.</h4>
 
 <a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef">
@@ -13,22 +15,18 @@
 
 ### Frontend
 
-#### Languages & Markup
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Frameworks
 ![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%2300DC82)
 ![Nuxt](https://img.shields.io/badge/nuxt-%2320232a.svg?style=for-the-badge&logo=Nuxt&logoColor=%2300DC82)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Framer Motion](https://img.shields.io/badge/framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
-#### Styling
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -57,6 +55,8 @@
 
 ## Cloud & Infra
 
+![Azure](https://img.shields.io/badge/Azure-%230078d4.svg?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23ff9900.svg?style=for-the-badge&labelColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -69,6 +69,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure%20DevOps-%230078d4.svg?style=for-the-badge&logoColor=white)
 
 <br/>
 <br/>
