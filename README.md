@@ -1,93 +1,76 @@
-<h1 align="center">João Izidoro</h1>
-
-<p align="center">
-  <strong><code>Software Engineering</code> <code>Designer</code></strong>
-  <br>
-</p>
+<img src="/imgs/header.svg" alt="hero"/>
 
 <br>
-<p align="center">Brazillian 7th semester Software Engineering student.</p>
-<!--<br>-->
-<p align="center">
-  <p align="center">
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-medeiros-izidoro-986123309/"><img src="https://img.shields.io/badge/-João%20Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/abhinandantrilokia/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-    <a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef"><img src="https://wakatime.com/badge/user/bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef.svg" alt="Total time coded since Feb 21 2025" /></a>
+<h3><strong><code> Software Engineering </code> - <code> Designer </code></strong></h3>
+<strong><a href="/joaoizidoro.com">Veja meus projetos / Browse my Projects</a></strong>
+<h4>Brazillian 7th semester <i>Software Engineering</i> student.</h4>
+
+<a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef">
+  <img src="https://wakatime.com/badge/user/bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef.svg" alt="Total time coded since Feb 21 2025" />
+</a>
+
 <br>
-</p>
-<br>
 
+## Stack
 
+### Frontend
 
-```ts
-import { Desenvolvedor } from 'Luciel';
+![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-function Luciel() {
-  const local = "Brazil, SC";
+![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%2300DC82)
+![Nuxt](https://img.shields.io/badge/nuxt-%2320232a.svg?style=for-the-badge&logo=Nuxt&logoColor=%2300DC82)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-  const code = ["TypeScript", "Lua", "Dart"];
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Framer Motion](https://img.shields.io/badge/framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
-  const tech = {
-    frontEnd: {
-      languages: ["Vue.js", "React", "TS"],
-      styles: ["Tailwind", "Sass", "Less"],
-      uiLibraries: ["PrimeVue", "Material Design"],
-      testing: ["Cypress", "Jest", "Vitest"],
-    },
-    backEnd: {
-      frameworks: ["Node.js", "Express", "Nestjs"],
-      databases: ["PostgreSQL", "MongoDB", "Supabase", "Firebase", "Redis"],
-    },
-    mobile: ["Flutter", "React Native", "Swift],
-    tools: ["Docker", "Supabase"],
-  };
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-  const aprendendo = ["GSAP", "Motion"];
+<br/>
 
-  const funFact = "I enjoy all types of art! I currently do writing, painting, and singing!";
-}
+## Backend
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/.net-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ed8b00.svg?style=for-the-badge&logoColor=white)
 
-```
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+<br/>
 
-<h2 align="center">✍️Learning Progress</h2>
+## AI / LLM
 
-<p align="center">I've been learning a few things I find interesting, here are some of them:</p>
+![OpenAI](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/prompt%20engineering-%23FF6C37.svg?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/ai%20agents-%2320232a.svg?style=for-the-badge&logoColor=white)
+<br/>
 
-<div align="center">
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-</div>
+## Cloud & Infra
 
-<h2 align="center">Databases Used</h2>
-<p align="center">Here are the types of Database I studied to create new applications, like <a href="https://discord.com/oauth2/authorize?client_id=1280266290875076668">Caçador do Pastel Com Cana</a>, my discord Bot!</p>
+![Azure](https://img.shields.io/badge/Azure-%230078d4.svg?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23ff9900.svg?style=for-the-badge&labelColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<br/>
 
-<div align="center">
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40px;" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img width="40px;" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-  <img width="40px;" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
-</div>
+## Version Control
 
-## Projects
-*I like seeing things working.*
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure Devops](https://img.shields.io/badge/Azure%20DevOps-%230078d4.svg?style=for-the-badge&logoColor=white)
 
-- Comissioning Portfolio. [Here's](https://brului.art) the link to my newest project, Brului's portfolio. She's an amazing artist and I was able to learn lots of things while creating this website, like routing, stores, caching among other things.
-- Weezy, the simplified Inventory Management. [Here's](https://github.com/FernandoLML/AGEM) the flutter repository for our mobile inventory system!
-- Documentation Page. It's a documentation page that had the design based off of [Veeam's User Guide](https://helpcenter.veeam.com/docs/backup/vsphere/overview.html?ver=120).
-I created it to learn html/sass/js as a whole when I was starting!
-- Discord Server Moderator. If you want to add "Pastel com Cana" to your Discord server, [here's the link](https://discord.com/oauth2/authorize?client_id=1280266290875076668)!
-- [Stock Control](https://github.com/angeluciel/pac_controle-de-emprestimos)
-For the stock control we used vue.js and node.
-The packages for node were the following:
-
-```
-npm install express mysql2 sequelize jsonwebtoken bcryptjs dotenv
-```
-
+<br/>
+<br/>
+<img src="/imgs/footer.svg" alt="footer" />
