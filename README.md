@@ -1,10 +1,11 @@
 <img src="/imgs/header.svg" alt="hero"/>
 
 <br>
+<h4>Curto fazer uns site bonito e ensinar iniciante a largar o vibe-coding.</h4>
+<br>
 <h3><strong><code> Software Engineering </code> - <code> Designer </code></strong></h3>
 <strong><a href="/joaoizidoro.com">Veja meus projetos / Browse my Projects</a></strong>
-<h4>Curto fazer uns site bonito e ensinar iniciante a largar o vibe-coding.</h4>
-
+<br>
 <a href="https://wakatime.com/@bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef">
   <img src="https://wakatime.com/badge/user/bde8f3e4-b54c-4eb1-8e38-0da73e7b42ef.svg" alt="Total time coded since Feb 21 2025" />
 </a>
